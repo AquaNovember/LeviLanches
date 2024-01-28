@@ -1,4 +1,1 @@
-# Trabalho de Informática
-# Aluno Nicolas Fernandes Ferreira
-
-Projeto feito utilizando o Tailwind
+Site para fins educacionais, fiz para um trabalho escolar utilizando Tailwind.
