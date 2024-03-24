@@ -1,1 +1,1 @@
-Site para fins educacionais, fiz para um trabalho escolar utilizando Tailwind.
+Projeto desenvolvido em 2023 para um trabalho utilizando Tailwind, mantive o repositório dele público para fins demonstrativos.
